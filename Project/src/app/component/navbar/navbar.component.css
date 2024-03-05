@@ -5,7 +5,7 @@
   height: 70px;
   width: 100%;
   background-color:#fff;
-  border: 1px solid cadetblue;
+  /* border: 1px solid cadetblue; */
 
 
 }
@@ -14,14 +14,17 @@
   display: flex;
   justify-content: flex-end;
   font-weight: 500;
+  cursor: pointer;
 
 
 }
 .two{
-  width: 35rem;
+  width: 45rem;
   /* border: 1px solid black; */
-  gap: 20px ;
+  gap: 30px ;
   display: flex;
+  cursor: pointer;
+
 
 }
 
@@ -34,8 +37,8 @@
 }
 
 .others{
-  width: 48rem;
-  gap: 25px;
+  width: 37rem;
+  gap: 40px;
   display: flex;
   justify-content: end;
   align-items: center;
