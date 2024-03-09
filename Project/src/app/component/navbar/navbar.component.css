@@ -1,0 +1,45 @@
+
+
+.navbar{
+  padding: 10px;
+  height: 70px;
+  width: 100%;
+  background-color:#fff;
+}
+.subnav{
+  display: flex;
+  justify-content: flex-end;
+  font-weight: 500;
+  cursor: pointer;
+
+
+}
+.two{
+  width: 45rem;
+  /* border: 1px solid black; */
+  gap: 30px ;
+  display: flex;
+  cursor: pointer;
+}
+
+.search{
+  border: 0;
+  outline: none;
+  height: 40px;
+  width: 100% ;
+  background-color: transparent;
+}
+
+.others{
+  width: 37rem;
+  gap: 40px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+/*
+.login{
+font-weight: 500;
+color: #d1d8e0;
+font-size: 18 px;
+} */
