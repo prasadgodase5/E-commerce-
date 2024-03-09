@@ -5,11 +5,7 @@
   height: 70px;
   width: 100%;
   background-color:#fff;
-  /* border: 1px solid cadetblue; */
-
-
 }
-
 .subnav{
   display: flex;
   justify-content: flex-end;
@@ -24,8 +20,6 @@
   gap: 30px ;
   display: flex;
   cursor: pointer;
-
-
 }
 
 .search{
